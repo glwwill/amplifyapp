@@ -1,0 +1,6 @@
+https://morioh.com/p/131b41783c2e
+git init
+git remote add origin git@github.com:glwwill/amplifyapp.git
+git add .
+git commit -m "initial commit"
+git push origin master
